@@ -9,7 +9,7 @@ $switch-colors: $form-colors !default;
     cursor: pointer;
     display: inline-flex;
     align-items: center;
-    position: relative;
+    position: static;
     margin-right: 0.5em;
     & + .switch:last-child {
         margin-right: 0;
